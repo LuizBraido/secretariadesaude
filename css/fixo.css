@@ -1,0 +1,43 @@
+/*CSS Cabecalho*/
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+header{
+    background: linear-gradient(0deg,#00074b,#0056aa);
+}
+
+.APPBarueri{
+    margin: 20px 0;
+}
+
+.cabecalho-caixa{
+    width: 1020px;
+    margin: 0 auto;
+    position: relative;
+}
+
+nav{
+    display: inline-block;
+    position: absolute;
+    top: 39.5px;
+    right: 0;
+}
+
+nav ul{
+    margin: 0;
+}
+
+nav li{
+    display: inline;
+    padding: 0 0 0 1em;
+}
+
+nav a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+/*CSS Rodape*/
