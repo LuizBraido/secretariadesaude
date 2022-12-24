@@ -23,3 +23,9 @@ th, td{
 td:nth-child(3){
     text-align: center;
 }
+
+#learning{
+    width: 100px;
+    padding: 0.5em;
+    margin: 5em 0 0;
+}
